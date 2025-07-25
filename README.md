@@ -143,8 +143,8 @@ Contributions are welcome! Feel free to:
 
 ## 📞 Contact
 
-- **GitHub**: [jayanthmani8045](https://github.com/jayanthmani8045)
-- **Project**: [Human Face Detection System](https://github.com/jayanthmani8045/HumanFaceDetectionSystem.git)
+- **GitHub**: [Kavin1829](https://github.com/Kavin1829)
+- **Project**: [Human Face Detection System](https://github.com/Kavin1829/HumanFaceDetectionSystem.git)
 
 ---
 
